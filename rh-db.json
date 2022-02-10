@@ -1,0 +1,18 @@
+{
+	"rh": [{
+			"id": 1,
+			"nome": "desenvolvedor  front end",
+			"foto": "foto1.jpg",
+			"descricao": "trabalhar com angular",
+			"salario": 8000
+		},
+
+		{
+			"id": 2,
+			"nome": "desenvolvedor backend pleno",
+			"foto": "foto2.jpg",
+			"descricao": "trabalhar com spring boot",
+			"salario": 4000
+		}
+	]
+}
